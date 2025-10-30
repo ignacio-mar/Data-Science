@@ -28,8 +28,3 @@ Además, en el curso encontrarás ejercicios, datasets para practicar basados en
 - Cualquiera interesado en aprender Machine Learning
 - Estudiantes que tienen un conocimiento de matemáticas que quieran aprender acerca del Machine Learning con Python
 - Usuarios intermedios que conocen los fundamentos de Machine learning como los algoritmos clásicos de regresión lineal o logística pero buscan aprender más y explorar otros campos del aprendizaje estadístico
-- Programadores que les guste el código y que estén interesados en aprender Machine Learning para aplicar dichas técnicas a sus datasets
-- Estudiantes de universidad que busquen especializarse y aprender a ser Data Scientists
-- Analistas de datos que quieran ir más allá gracias al Machine Learning
-- Cualquier persona que no esté satisfecha con su propio trabajo y busque empezar a trabajar como un Data Scientist profesional
-- Cualquier persona que quiera dar valor añadido a su propia empresa utilizando las potentes herramientas de Machine Learning
