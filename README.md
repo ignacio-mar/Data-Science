@@ -3,10 +3,6 @@
 ## Requisitos
 * Se necesitan conocimientos de matemáticas de bachillerato o conocimientos básicos de estadística
 * Se recomienda saber programar un poco para enfocarse en aprender las técnicas de análisis en Python aunque no es totalmente necesario
-## Descripción
-¿Te suenan las palabras Machine Learning o Data Scientist? ¿Te pica la curiosidad de para qué sirven estas técnicas o por qué empresas de todo el mundo pagan un sueldo de 120.000 hasta 200.000$ al año a un científico de datos? 
-
-Pues este curso está pensado y diseñado por todo un profesional del mundo del Data Science como es Juan Gabriel Gomila, de modo que os va a compartir todo su conocimiento y ayudaros a entender la teoría tan compleja sobre las matemáticas que tiene detrás, los algoritmos y librerías de programación con Python para convertiros en todo unos expertos a pesar de que no tengáis experiencia previa. 
 
 Veremos paso a paso como empezar a trabajar con conceptos y algoritmos del mundo del Machine Learning. Con cada nueva clase y sección que completes tendrás unas nuevas habilidades que te ayudarán a entender este mundo tan completo y lucrativo que puede ser esta rama del Data Science.
 
